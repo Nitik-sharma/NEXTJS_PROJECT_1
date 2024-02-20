@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": "course001",
+      "title": "Introduction to Music Theory",
+      "slug": "music-theory-intro",
+      "description": "Learn the fundamentals of music theory to enhance your musical understanding.",
+      "price": 29.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "intro_to_music_theory.jpg"
+    },
+    {
+      "id": "course002",
+      "title": "Guitar Basics: From Beginner to Pro",
+      "slug": "guitar-basics",
+      "description": "Master the basics of playing the guitar and advance to pro-level techniques.",
+      "price": 49.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": false,
+      "image": "guitar_basics.jpg"
+    },
+    {
+      "id": "course003",
+      "title": "Piano for All Ages",
+      "slug": "piano-all-ages",
+      "description": "Discover the joy of playing the piano with lessons suitable for all age groups.",
+      "price": 39.99,
+      "instructor": "Michael Davis",
+      "isFeatured": true,
+      "image": "piano_for_all_ages.jpg"
+    },
+    {
+      "id": "course004",
+      "title": "Songwriting Masterclass",
+      "slug": "songwriting-masterclass",
+      "description": "Unlock the secrets of songwriting and create your own musical masterpieces.",
+      "price": 59.99,
+      "instructor": "Sarah Thompson",
+      "isFeatured": false,
+      "image": "songwriting_masterclass.jpg"
+    },
+    {
+      "id": "course005",
+      "title": "Jazz Improvisation Workshop",
+      "slug": "jazz-improvisation",
+      "description": "Immerse yourself in the world of jazz improvisation and enhance your musical creativity.",
+      "price": 34.99,
+      "instructor": "Robert Anderson",
+      "isFeatured": true,
+      "image": "jazz_improvisation.jpg"
+    },
+    {
+      "id": "course006",
+      "title": "Electronic Music Production Essentials",
+      "slug": "music-production-essentials",
+      "description": "Learn the essential skills and techniques for producing electronic music.",
+      "price": 44.99,
+      "instructor": "Alicia Martinez",
+      "isFeatured": false,
+      "image": "electronic_music_production.jpg"
+    },
+    {
+      "id": "course007",
+      "title": "Singing Techniques and Vocal Mastery",
+      "slug": "vocal-mastery",
+      "description": "Develop your singing techniques and achieve vocal mastery with expert guidance.",
+      "price": 49.99,
+      "instructor": "David Brown",
+      "isFeatured": true,
+      "image": "singing_techniques.jpg"
+    },
+    {
+      "id": "course008",
+      "title": "World Music Appreciation",
+      "slug": "world-music-appreciation",
+      "description": "Explore the rich diversity of world music and broaden your musical horizons.",
+      "price": 29.99,
+      "instructor": "Lila Chen",
+      "isFeatured": false,
+      "image": "world_music_appreciation.jpg"
+    },
+    {
+      "id": "course009",
+      "title": "Classical Compositions: A Historical Journey",
+      "slug": "classical-compositions",
+      "description": "Embark on a historical journey through classical compositions and their significance.",
+      "price": 54.99,
+      "instructor": "Jonathan White",
+      "isFeatured": true,
+      "image": "classical_compositions.jpg"
+    },
+    {
+      "id": "course010",
+      "title": "Drumming Foundations for Beginners",
+      "slug": "drumming-foundations",
+      "description": "Start your drumming journey with foundational lessons for beginners.",
+      "price": 39.99,
+      "instructor": "Carlos Rodriguez",
+      "isFeatured": false,
+      "image": "drumming_foundations.jpg"
+    }
+  ]
+}
