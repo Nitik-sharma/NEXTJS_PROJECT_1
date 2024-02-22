@@ -1,8 +1,10 @@
+import HeroSection from "@/Components/HeroSection";
+
 const Home = () => {
   return (
-    <div>
-      <h1 className=" text-3xl text-center mt-8 text-red-300">Hello word</h1>
-    </div>
+    <main className=" min-h-screen bg-black/[0.96] antialiased  bg-grid-white/[0.02] ">
+      <HeroSection />
+    </main>
   );
 };
 
