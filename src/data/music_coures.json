@@ -1,104 +1,104 @@
 {
   "courses": [
     {
-      "id": "course001",
+      "id": "1",
       "title": "Introduction to Music Theory",
       "slug": "music-theory-intro",
       "description": "Learn the fundamentals of music theory to enhance your musical understanding.",
       "price": 29.99,
       "instructor": "John Smith",
       "isFeatured": true,
-      "image": "intro_to_music_theory.jpg"
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": "course002",
+      "id": "2",
       "title": "Guitar Basics: From Beginner to Pro",
       "slug": "guitar-basics",
       "description": "Master the basics of playing the guitar and advance to pro-level techniques.",
       "price": 49.99,
       "instructor": "Emily Johnson",
       "isFeatured": false,
-      "image": "guitar_basics.jpg"
+      "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": "course003",
+      "id": "3",
       "title": "Piano for All Ages",
       "slug": "piano-all-ages",
       "description": "Discover the joy of playing the piano with lessons suitable for all age groups.",
       "price": 39.99,
       "instructor": "Michael Davis",
       "isFeatured": true,
-      "image": "piano_for_all_ages.jpg"
+      "image": "https://images.unsplash.com/photo-1561014816-50ce5acb5e73?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": "course004",
+      "id": "4",
       "title": "Songwriting Masterclass",
       "slug": "songwriting-masterclass",
       "description": "Unlock the secrets of songwriting and create your own musical masterpieces.",
       "price": 59.99,
       "instructor": "Sarah Thompson",
       "isFeatured": false,
-      "image": "songwriting_masterclass.jpg"
+      "image": "https://images.unsplash.com/photo-1514119412350-e174d90d280e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": "course005",
+      "id": "5",
       "title": "Jazz Improvisation Workshop",
       "slug": "jazz-improvisation",
       "description": "Immerse yourself in the world of jazz improvisation and enhance your musical creativity.",
       "price": 34.99,
       "instructor": "Robert Anderson",
       "isFeatured": true,
-      "image": "jazz_improvisation.jpg"
+      "image": "https://images.unsplash.com/photo-1589224906659-03c8b0af4f7c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": "course006",
+      "id": "6",
       "title": "Electronic Music Production Essentials",
       "slug": "music-production-essentials",
       "description": "Learn the essential skills and techniques for producing electronic music.",
       "price": 44.99,
       "instructor": "Alicia Martinez",
       "isFeatured": false,
-      "image": "electronic_music_production.jpg"
+      "image": "https://images.unsplash.com/photo-1504904126298-3fde501c9b31?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": "course007",
+      "id": "7",
       "title": "Singing Techniques and Vocal Mastery",
       "slug": "vocal-mastery",
       "description": "Develop your singing techniques and achieve vocal mastery with expert guidance.",
       "price": 49.99,
       "instructor": "David Brown",
       "isFeatured": true,
-      "image": "singing_techniques.jpg"
+      "image": "https://plus.unsplash.com/premium_photo-1664194584291-cfc411d05998?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": "course008",
+      "id": "8",
       "title": "World Music Appreciation",
       "slug": "world-music-appreciation",
       "description": "Explore the rich diversity of world music and broaden your musical horizons.",
       "price": 29.99,
       "instructor": "Lila Chen",
       "isFeatured": false,
-      "image": "world_music_appreciation.jpg"
+      "image": "https://images.unsplash.com/photo-1550219363-d0adfaa43d0f?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": "course009",
+      "id": "9",
       "title": "Classical Compositions: A Historical Journey",
       "slug": "classical-compositions",
       "description": "Embark on a historical journey through classical compositions and their significance.",
       "price": 54.99,
       "instructor": "Jonathan White",
       "isFeatured": true,
-      "image": "classical_compositions.jpg"
+      "image": "https://images.unsplash.com/photo-1519412666065-94acb3f8838f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": "course010",
+      "id": "10",
       "title": "Drumming Foundations for Beginners",
       "slug": "drumming-foundations",
       "description": "Start your drumming journey with foundational lessons for beginners.",
       "price": 39.99,
       "instructor": "Carlos Rodriguez",
       "isFeatured": false,
-      "image": "drumming_foundations.jpg"
+      "image": "https://images.unsplash.com/photo-1526933893123-220ba506e809?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
