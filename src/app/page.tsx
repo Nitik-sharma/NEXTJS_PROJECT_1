@@ -4,6 +4,7 @@ import Instructor from "@/Components/Instructor";
 import Testinomial from "@/Components/Testinomial";
 import Webinar from "@/Components/Webinar";
 import WhyCouseUs from "@/Components/WhyCouseUs";
+import Footer from "./../Components/Footer";
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
       <Testinomial />
       <Webinar />
       <Instructor />
+      <Footer />
     </main>
   );
 };
