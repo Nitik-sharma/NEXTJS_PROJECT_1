@@ -1,5 +1,6 @@
 import Featured from "@/Components/Featured";
 import HeroSection from "@/Components/HeroSection";
+import Instructor from "@/Components/Instructor";
 import Testinomial from "@/Components/Testinomial";
 import Webinar from "@/Components/Webinar";
 import WhyCouseUs from "@/Components/WhyCouseUs";
@@ -12,6 +13,7 @@ const Home = () => {
       <WhyCouseUs />
       <Testinomial />
       <Webinar />
+      <Instructor />
     </main>
   );
 };
