@@ -2,6 +2,8 @@
 import Link from "next/link";
 import React from "react";
 import { HoverEffect } from "./ui/card-hover-effect";
+import { motion } from "framer-motion";
+import { LampContainer } from "./ui/lamp";
 function Webinar() {
   const featuredWebinars = [
     {
@@ -55,6 +57,7 @@ function Webinar() {
           <h2 className="text-base text-teal-600 font-semibold tracking-wide uppercase">
             Featured Webinar
           </h2>
+
           <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">
             Learn With the best
           </p>
