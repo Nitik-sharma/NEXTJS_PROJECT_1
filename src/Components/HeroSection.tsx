@@ -1,8 +1,6 @@
 import Link from "next/link";
 import { Spotlight } from "./ui/Spotlight";
 import { Button } from "./ui/moving-border";
-import { motion } from "framer-motion";
-import { LampContainer } from "./ui/lamp";
 
 export default function HeroSection() {
   return (
@@ -13,7 +11,7 @@ export default function HeroSection() {
       />
       <div className=" p-4 z-10 relative  text-center w-full">
         <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">
-          Music OF Arts
+          Master with the Music OF Arts
         </h1>
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
           Comprehensive music course platform, providing expert-led lessons in

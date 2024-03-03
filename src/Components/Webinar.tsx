@@ -2,8 +2,7 @@
 import Link from "next/link";
 import React from "react";
 import { HoverEffect } from "./ui/card-hover-effect";
-import { motion } from "framer-motion";
-import { LampContainer } from "./ui/lamp";
+
 function Webinar() {
   const featuredWebinars = [
     {
